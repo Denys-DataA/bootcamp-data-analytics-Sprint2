@@ -12,4 +12,4 @@ Repositorio con los ejercicios del Sprint 2 del Bootcamp de Data Analytics de Ba
 - GitHub
 
 ## Autora
-Denys Doros
+Denys Geanina Doros Curti
